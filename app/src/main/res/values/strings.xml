@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Financing Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_overview">Overview</string>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#397D02</color>
+    <color name="blue">#39B7CD</color>
+    <color name="red">#B0171F</color>
+
+
+</resources>
