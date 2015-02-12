@@ -11,5 +11,7 @@
     <color name="blue">#39B7CD</color>
     <color name="red">#B0171F</color>
 
+    <string name="title_activity_log_expenditure">LogExpenditure</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

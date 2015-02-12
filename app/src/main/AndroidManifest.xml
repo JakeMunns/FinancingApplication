@@ -16,12 +16,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name=".Overview"
-            android:label="@string/title_activity_overview">
+            android:label="@string/title_activity_overview" >
         </activity>
-
+        <activity
+            android:name=".LogExpenditure"
+            android:label="@string/title_activity_log_expenditure"
+            android:parentActivityName=".Menu" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="emmajanefearn.financingapplication.Menu" />
+        </activity>
     </application>
 
 </manifest>
